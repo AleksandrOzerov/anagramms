@@ -12,6 +12,6 @@ int main(){
 	cout << boolalpha;
 	cout << Anograms("abcd", "dcab") << endl;
 	cout << Anograms("cat", "tad")<< endl;
-	
+	cout << Anograms("cach", "tach") << endl;
 
 }
