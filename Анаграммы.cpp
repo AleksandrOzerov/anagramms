@@ -13,5 +13,6 @@ int main(){
 	cout << Anograms("abcd", "dcab") << endl;
 	cout << Anograms("cat", "tad")<< endl;
 	cout << Anograms("cach", "tach") << endl;
+	cout << Anograms("sach", "sach") << endl;
 
 }
